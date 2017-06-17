@@ -1,0 +1,1 @@
+export { default } from 'bomber-charts/components/simple-bar-chart';

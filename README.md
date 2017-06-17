@@ -1,6 +1,9 @@
 # bomber-charts
 
-This README outlines the details of collaborating on this Ember addon.
+![Image of bomber chartslogo]
+
+
+This ember addon is a library for charts based on D3.
 
 ## Installation
 

@@ -1,0 +1,14 @@
+.simple-bar {
+    fill: green;
+  stroke: black;
+  stroke-width: 1;
+}
+
+.simple-bar:hover {
+    fill: #e05038;
+}
+
+.simple-bar-text {
+  fill: white;
+  font-family: sans-serif;
+}
