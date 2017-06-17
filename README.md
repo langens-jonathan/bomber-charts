@@ -1,7 +1,7 @@
 # bomber-charts
 
 ![Image of bomber chartslogo]
-
+(https://github.com/langens-jonathan/bomber-charts/blob/master/bomber-charts-logo-v0.png)
 
 This ember addon is a library for charts based on D3.
 
