@@ -1,6 +1,6 @@
 {
   "name": "bomber-charts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This addon contains a lot of charts for ember. All charts are based on the D3 library.",
   "keywords": [
     "ember-addon"

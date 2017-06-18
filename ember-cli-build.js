@@ -6,7 +6,7 @@ module.exports = function(defaults) {
       // Add options here
   });
     
-  app.import('vendor/d3.v3.js');
+  app.import('vendor/d3.v4.js');
 
   /*
     This build file specifies the options for the dummy test app of this
