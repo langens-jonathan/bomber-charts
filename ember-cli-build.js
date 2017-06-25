@@ -5,8 +5,6 @@ module.exports = function(defaults) {
   var app = new EmberAddon(defaults, {
       // Add options here
   });
-    
-  app.import('vendor/d3.v4.js');
 
   /*
     This build file specifies the options for the dummy test app of this

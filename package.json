@@ -1,6 +1,6 @@
 {
   "name": "bomber-charts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This addon contains a lot of charts for ember. All charts are based on the D3 library.",
   "keywords": [
     "ember-addon"
@@ -18,8 +18,8 @@
     "test": "ember try:each"
   },
   "dependencies": {
-      "ember-cli-babel": "^6.0.0",
-      "ember-cli-htmlbars": "^1.3.3"
+    "ember-cli-babel": "^6.0.0",
+    "ember-cli-htmlbars": "^1.3.3"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
@@ -34,6 +34,7 @@
     "ember-cli-shims": "^1.1.0",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
+    "ember-d3": "^0.3.4",
     "ember-disable-prototype-extensions": "^1.1.0",
     "ember-export-application-global": "^2.0.0",
     "ember-load-initializers": "^1.0.0",
