@@ -1,11 +1,11 @@
 .simple-bar-chart-bar {
-  stroke: black;
+  stroke: #514663;
   stroke-width: 1;
-  fill: #857885;
+  fill: #4D5382;
 }
 
 .simple-bar-chart-bar:hover {
-    fill: #e05038;
+    fill: #8CBA80;
 }
 
 .simple-bar-chart-text {
@@ -15,6 +15,6 @@
 
 
 .simple-bar-chart-pane {
-    background-color: #EEEEEE;
+    background-color: #CACF85;
     color: #A4BEF3;
 }
